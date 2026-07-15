@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi 👋 I'm Liang guanhua
+
+## About Me
+
+🎓 Computer Science student
+
+💻 Interested in:
+- C++
+- Java
+- Vue
+- Spring Boot
+- Linux
+
+## My Projects
+
+### Teacher Attendance System
+
+Vue3 + Spring Boot + MySQL
+
+## Skills
+
+Java | C++ | JavaScript | Python
+
