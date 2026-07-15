@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **lgh-0/lgh-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +15,19 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi 👋 I'm Liang guanhua
+# Hi 👋 I'm Liang guanhua(梁观华)
 
 ## About Me
 
-🎓 Computer Science student
+🎓 Computer Science student at **Shenzhen Technology University (SZTU)**
 
 💻 Interested in:
+- Vue
+- React
 - C++
 - Java
-- Vue
+- Go
+- Rust
 - Spring Boot
 - Linux
 
